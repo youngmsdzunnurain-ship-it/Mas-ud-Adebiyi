@@ -23,9 +23,9 @@ I'm a passionate developer focused on building modern, responsive, and user-frie
 
 ## 📌 Featured Projects
 
-- MARKAZ — School Management System
-- MARTIX — Supermarket & Pharmacy Platform
-- Omnifood — Responsive Food Website
+- **MARKAZ** — School Management System
+- **MARTIX** — Supermarket & Pharmacy Platform
+- **Omnifood** — Responsive Food Website
 
 ## 🎯 Goal
 
@@ -33,8 +33,10 @@ To become a highly skilled Full-Stack Developer and build useful, scalable appli
 
 ## 📫 Connect With Me
 
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mas-ud-adebiyi-225882428)
-- Portfolio: [My Portfolio](https://omnifood-young-msd.netlify.app)
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mas-ud-adebiyi-225882428)
+- 📸 Instagram: [@youngmsd.dev](https://www.instagram.com/youngmsd.dev/)
+- 📘 Facebook: [My Facebook](YOUR-FACEBOOK-URL)
+- 🌐 Portfolio: [My Portfolio](https://omnifood-young-msd.netlify.app)
 
 ---
 
